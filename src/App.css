@@ -1,0 +1,25 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: url("https://i.hizliresim.com/L3ZlB0.gif") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
+button{
+  width: 83%;
+  background-color: blue;;
+  color: #fff;
+  padding: .625rem;
+  font-size: 1.25em;
+  border-radius: 10px;
+  border: 1px solid blue;
+  margin-top: 1rem;
+}
+.classList{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

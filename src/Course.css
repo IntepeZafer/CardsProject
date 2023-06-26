@@ -1,0 +1,41 @@
+.image{
+    width: 21.875rem;
+    border-radius: 10px;
+}
+.courseDiv{
+    margin: 1rem;
+    border: 1px solid black;
+    padding: .625rem;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px;
+    background: linear-gradient(#fff,rgb(90, 220, 230));
+}
+.text{
+    width: 21.875rem;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+.elements{
+    display: flex;
+    column-gap: .125rem;
+}
+.element{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.line{
+    width: 1px;
+    height: 14vh;
+    background-color: black;
+}
+.inputsTwo{
+    width: 60%;
+    padding-right: 1rem;
+    text-align: justify;
+}
+.delete{
+    width: 100%;
+}
